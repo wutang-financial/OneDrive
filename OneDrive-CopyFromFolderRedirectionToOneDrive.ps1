@@ -4,6 +4,7 @@ The script copies the existing folders "desktop" and "documents" into the onedri
 
 .DESCRIPTION
 Use this script to copy the Folder Redirection Folder Desktop and Documents local and fetch them into OneDrive Known Folder
+
 .NOTES
   Version:        1.0
   Author:         Manuel Winkel <www.deyda.net>
